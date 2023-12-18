@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{39134609-9790-D5D3-CE0F-A69810DC82E2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/DragonController.cs">
+    <Files>
+      <File FileName="Assets/DragonController.cs" Line="15" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="73ec4502-e774-4406-b2fe-00e2014d2660" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
